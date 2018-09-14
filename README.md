@@ -7,7 +7,7 @@
 #### 启动 
 #####  $ npm run dev 
 
-### 可与 clipboardData（截图复制） 项目结合，实现截图的复制和粘贴
+#### 可与 clipboardData（截图复制） 项目结合，实现截图的复制和粘贴
 
 
 
